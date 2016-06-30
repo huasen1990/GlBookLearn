@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">glbooklearn</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="HttpUrlConnection">request</string>
+	<string name="parseWithPull">parseWithPull</string>
+	<string name="parseWithSax">parseWithSax</string>
+	<string name="parseWithJSONObject">parseWithJSONObject</string>
+	<string name="parseWithGSON">"parseWithGSON"</string>
+	
+	<string name="startlocation">开启定位</string>
+	<string name="stoplocation">终止定位</string>
+	<string name="lightsensor">光照探测器</string>
+	<string name="accelerometersensor">摇一摇</string>
+	<string name="accelerometerandmagnetic">指南针</string>
+</resources>
